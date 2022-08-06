@@ -2,5 +2,5 @@
 
 These are the screenshots of the App:
 
-![Screen1](assets/images/Screen1.jpg)
-![Screen2](assets/images/Screen2.jpg)
+![Screen1](assets/images/Screen1.jpg | width=250)
+![Screen2](assets/images/Screen2.jpg | width=250)
