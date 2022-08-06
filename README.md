@@ -1,16 +1,6 @@
-# my_profile_app
+# My Profile App (Need to update the chat, where the chat must be ordered according to timestamp)
 
-A new Flutter project.
+These are the screenshots of the App:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screen1](assets/images/Screen1.jpg)
+![Screen2](assets/images/Screen2.jpg)
